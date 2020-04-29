@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Major/Minor",
+    "modes": [
+      "Ionian",
+      "Dorian",
+      "Phrygian",
+      "Lydian",
+      "Mixolydian",
+      "Aeolian",
+      "Locrian"
+    ],
+    "intervals": [2, 2, 1, 2, 2, 2, 1]
+  }
+]

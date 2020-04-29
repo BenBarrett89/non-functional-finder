@@ -1,0 +1,26 @@
+{
+  "name": "non-functional-finder",
+  "version": "0.0.1",
+  "description": "An application to help find common scales/modes for help in creating non-functional harmony",
+  "main": "src/index.js",
+  "scripts": {
+    "db:load": "node src/database/scripts/load.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenBarrett89/non-functional-finder.git"
+  },
+  "author": "BenBarrett89",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BenBarrett89/non-functional-finder/issues"
+  },
+  "homepage": "https://github.com/BenBarrett89/non-functional-finder#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "pg": "^8.0.3",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^5.21.7",
+    "sequelize-cli": "^5.5.1"
+  }
+}

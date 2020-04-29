@@ -1,0 +1,79 @@
+[
+  {
+    "number": 0,
+    "names": {
+      "natural": "C"
+    }
+  },
+  {
+    "number": 1,
+    "names": {
+      "flat": "Db",
+      "sharp": "C#"
+    }
+  },
+  {
+    "number": 2,
+    "names": {
+      "natural": "D"
+    }
+  },
+  {
+    "number": 3,
+    "names": {
+      "flat": "Eb",
+      "sharp": "D#"
+    }
+  },
+  {
+    "number": 4,
+    "names": {
+      "natural": "E"
+    }
+  },
+  {
+    "number": 5,
+    "names": {
+      "natural": "F"
+    }
+  },
+  {
+    "number": 6,
+    "names": {
+      "flat": "Gb",
+      "sharp": "F#"
+    }
+  },
+  {
+    "number": 7,
+    "names": {
+      "natural": "G"
+    }
+  },
+  {
+    "number": 8,
+    "names": {
+      "flat": "Ab",
+      "sharp": "G#"
+    }
+  },
+  {
+    "number": 9,
+    "names": {
+      "natural": "A"
+    }
+  },
+  {
+    "number": 10,
+    "names": {
+      "flat": "Bb",
+      "sharp": "A#"
+    }
+  },
+  {
+    "number": 11,
+    "names": {
+      "natural": "B"
+    }
+  }
+]
